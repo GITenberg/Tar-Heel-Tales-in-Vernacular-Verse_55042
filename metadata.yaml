@@ -1,0 +1,31 @@
+_repo: Tar-Heel-Tales-in-Vernacular-Verse_55042
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bonar, Andrew A. (Andrew Alexander)
+    aliases:
+    - Bonar, A. A. (Andrew Alexander)
+    - Bonar, Andrew Alexander
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '5948'
+    url: http://www.gutenberg.org/2009/agents/5948
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Bonar
+creator:
+  author:
+    agent_name: Doyle, John E. P.
+    gutenberg_agent_id: '48164'
+    url: http://www.gutenberg.org/2009/agents/48164
+description: ''
+gutenberg_issued: '2017-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tar-Heel Tales in Vernacular Verse
+url: http://www.gutenberg.org/ebooks/55042
